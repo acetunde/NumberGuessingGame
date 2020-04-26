@@ -5,7 +5,6 @@ import sys
 class Error (Exception):
     pass
 
-
 class InputError (Error):
     pass
 
